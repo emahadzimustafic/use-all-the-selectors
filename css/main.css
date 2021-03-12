@@ -1,13 +1,14 @@
 html {
-box-sizing: border-box;
-background-color: #fdf6e3;
-font-family: sans-serif;
-line-height: 1.5;
+  box-sizing: border-box;
+  background-color: #fdf6e3;
+  font-family: sans-serif;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
 body {
   background-color: #fdf6e3;
 }
@@ -26,9 +27,11 @@ nav ul {
 .wrapper {
   background-color: #eee8d5;
 }
+
 #id {
   color: #93a1a1;
 }
+
 .wrapper > .dfn {
   background-color: #b58900;
 }
@@ -40,6 +43,7 @@ p + strong {
 a:not(.no-highlight) {
   background-color: #719e07;
 }
+
 [rel="external"] {
   background-color: #2694d8;
 }
