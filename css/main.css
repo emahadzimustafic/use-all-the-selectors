@@ -1,8 +1,8 @@
 html {
   box-sizing: border-box;
   background-color: #fdf6e3;
-  font-family: sans-serif;
-  line-height: 1.01;
+  font-family: serif;
+  line-height: 1.08;
 }
 
 *, *::before, *::after {
