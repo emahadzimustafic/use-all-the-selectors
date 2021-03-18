@@ -29,7 +29,7 @@ nav ul {
   background-color: #eee8d5;
 }
 
-#favs {
+#contents, #favs, #facts, #types {
   color: #93a1a1;
 }
 
@@ -65,6 +65,6 @@ ol li:last-child {
   background-color: #586e75;
 }
 
-.types li:nth-child(3) {
+.types li:nth-child(3n) {
   background-color: #d04b16;
 }
