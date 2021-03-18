@@ -2,7 +2,7 @@ html {
   box-sizing: border-box;
   background-color: #fdf6e3;
   font-family: serif;
-  line-height: 1.5;
+  line-height: 0px;
 }
 
 *, *::before, *::after {
